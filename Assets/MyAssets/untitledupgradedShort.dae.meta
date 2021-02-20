@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 4658cfd71b196664c89def386e99ee3c
+timeCreated: 1600087034
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cylinder.001
+    100002: Cylinder.002
+    100004: Cylinder.003
+    100006: Cylinder.004
+    100008: Cylinder.005
+    100010: Cylinder.006
+    100012: Cylinder.007
+    100014: Cylinder.008
+    100016: Cylinder.009
+    100018: Cylinder.010
+    100020: FrontKnife
+    100022: GasTube
+    100024: Korpus
+    100026: LeftTrack
+    100028: Plane.001
+    100030: RearLights
+    100032: RightTrack
+    100034: Sphere
+    100036: //RootNode
+    100038: UpperLight
+    400000: Cylinder.001
+    400002: Cylinder.002
+    400004: Cylinder.003
+    400006: Cylinder.004
+    400008: Cylinder.005
+    400010: Cylinder.006
+    400012: Cylinder.007
+    400014: Cylinder.008
+    400016: Cylinder.009
+    400018: Cylinder.010
+    400020: FrontKnife
+    400022: GasTube
+    400024: Korpus
+    400026: LeftTrack
+    400028: Plane.001
+    400030: RearLights
+    400032: RightTrack
+    400034: Sphere
+    400036: //RootNode
+    400038: UpperLight
+    2300000: Cylinder.001
+    2300002: Cylinder.002
+    2300004: Cylinder.003
+    2300006: Cylinder.004
+    2300008: Cylinder.005
+    2300010: Cylinder.006
+    2300012: Cylinder.007
+    2300014: Cylinder.008
+    2300016: Cylinder.009
+    2300018: Cylinder.010
+    2300020: FrontKnife
+    2300022: GasTube
+    2300024: Korpus
+    2300026: LeftTrack
+    2300028: Plane.001
+    2300030: RearLights
+    2300032: RightTrack
+    2300034: Sphere
+    2300036: UpperLight
+    3300000: Cylinder.001
+    3300002: Cylinder.002
+    3300004: Cylinder.003
+    3300006: Cylinder.004
+    3300008: Cylinder.005
+    3300010: Cylinder.006
+    3300012: Cylinder.007
+    3300014: Cylinder.008
+    3300016: Cylinder.009
+    3300018: Cylinder.010
+    3300020: FrontKnife
+    3300022: GasTube
+    3300024: Korpus
+    3300026: LeftTrack
+    3300028: Plane.001
+    3300030: RearLights
+    3300032: RightTrack
+    3300034: Sphere
+    3300036: UpperLight
+    4300000: Sphere
+    4300002: UpperLight
+    4300004: RightTrack
+    4300006: RearLights
+    4300008: Korpus
+    4300010: GasTube
+    4300012: FrontKnife
+    4300014: Cylinder.010
+    4300016: Cylinder.007
+    4300018: Plane.001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
